@@ -1,0 +1,22 @@
+{
+  "id": "conv-1776869587167-udi1p6kk7",
+  "providerId": "claude",
+  "title": "请你根据karpathy的这套方法，帮我把仓库里的文件夹的结构给建立起来",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776869587188,
+  "updatedAt": 1776870748196,
+  "lastResponseAt": 1776870659791,
+  "sessionId": "5dcf12de-deda-49a9-a962-86edbc6bdae2",
+  "providerState": {
+    "providerSessionId": "5dcf12de-deda-49a9-a962-86edbc6bdae2"
+  },
+  "usage": {
+    "model": "GLM-4.7-Flash",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

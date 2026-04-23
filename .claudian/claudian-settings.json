@@ -1,0 +1,83 @@
+{
+  "userName": "秦宇晨",
+  "permissionMode": "yolo",
+  "model": "qwen3.6-plus",
+  "thinkingBudget": "low",
+  "effortLevel": "high",
+  "serviceTier": "default",
+  "enableAutoTitleGeneration": true,
+  "titleGenerationModel": "",
+  "excludedTags": [],
+  "mediaFolder": "",
+  "systemPrompt": "",
+  "persistentExternalContextPaths": [],
+  "sharedEnvironmentVariables": "",
+  "envSnippets": [
+    {
+      "id": "snippet-1776527068471",
+      "name": "qq",
+      "description": "qq",
+      "envVars": "ANTHROPIC_API_KEY=a8c528fc8ec2e8a70ce98075f813cd7f.LlygWP7hvzb9hnrz\nANTHROPIC_BASE_URL=https://open.bigmodel.cn/api/anthropic\nANTHROPIC_MODEL=GLM-4.7-Flash",
+      "scope": "provider:claude"
+    },
+    {
+      "id": "snippet-1776952053921",
+      "name": "阿里百炼",
+      "description": "阿里百炼",
+      "envVars": "ANTHROPIC_BASE_URL=https://dashscope.aliyuncs.com/apps/anthropic\nANTHROPIC_API_KEY=sk-d98a7434af1f4641921b8af02e175499\nANTHROPIC_MODEL=qwen3.6-plus",
+      "scope": "provider:claude"
+    }
+  ],
+  "customContextLimits": {},
+  "keyboardNavigation": {
+    "scrollUpKey": "w",
+    "scrollDownKey": "s",
+    "focusInputKey": "i"
+  },
+  "locale": "zh-CN",
+  "providerConfigs": {
+    "claude": {
+      "safeMode": "acceptEdits",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "loadUserSettings": true,
+      "enableChrome": false,
+      "enableBangBash": false,
+      "enableOpus1M": false,
+      "enableSonnet1M": false,
+      "lastModel": "haiku",
+      "environmentVariables": "ANTHROPIC_BASE_URL=https://dashscope.aliyuncs.com/apps/anthropic\nANTHROPIC_API_KEY=sk-d98a7434af1f4641921b8af02e175499\nANTHROPIC_MODEL=qwen3.6-plus",
+      "environmentHash": "ANTHROPIC_BASE_URL=https://dashscope.aliyuncs.com/apps/anthropic|ANTHROPIC_MODEL=qwen3.6-plus"
+    },
+    "codex": {
+      "enabled": false,
+      "safeMode": "workspace-write",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "reasoningSummary": "detailed",
+      "environmentVariables": "",
+      "environmentHash": "",
+      "installationMethodsByHost": {
+        "DESKTOP-9NVNTBC": "native-windows"
+      },
+      "wslDistroOverridesByHost": {}
+    }
+  },
+  "settingsProvider": "claude",
+  "savedProviderModel": {
+    "claude": "qwen3.6-plus"
+  },
+  "savedProviderEffort": {
+    "claude": "high"
+  },
+  "savedProviderServiceTier": {},
+  "savedProviderThinkingBudget": {
+    "claude": "low"
+  },
+  "lastCustomModel": "GLM-4.7-Flash",
+  "maxTabs": 3,
+  "tabBarPosition": "input",
+  "enableAutoScroll": true,
+  "openInMainTab": true,
+  "hiddenProviderCommands": {}
+}
